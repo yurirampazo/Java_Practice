@@ -1,5 +1,7 @@
 package exceptions.mvcpattern.model.entities;
 
+import exceptions.mvcpattern.model.exception.DomainException;
+
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
@@ -11,6 +13,9 @@ public class Reservation {
     private Date checkout;
 
     public Reservation (Integer roomNumber, Date checkin, Date checkout) {
+        if(!checkout.after(checkin)) {
+            throw new DomainException("Reservation date must be in the future") ;
+        }
         this.roomNumber = roomNumber;
         this.checkin = checkin;
         this.checkout = checkout;
@@ -38,18 +43,16 @@ public class Reservation {
         return TimeUnit.DAYS.convert(diff, TimeUnit.MILLISECONDS);
     }
 
-    public String updateDates(Date checkin, Date checkout){
+    public void updateDates(Date checkin, Date checkout){
         Date now = new Date();
-        if(!checkin.after(now) || checkout.before(now)) {
-            return "Reservation date must be in the future";
+//        if(checkin.before(now) || checkout.before(now)) {
+//            throw new DomainException("Reservation date must be in the future") ;
+//        }
+        if (checkin.after(checkout)) {
+            throw new DomainException("Check-in must be made before check-out.") ;
         }
-        if (!checkout.after(checkin)) {
-            return "check-in must be made before check-out.";
-        }
-
         this.checkin = checkin;
         this.checkout = checkout;
-        return  null;
     }
 
     @Override
