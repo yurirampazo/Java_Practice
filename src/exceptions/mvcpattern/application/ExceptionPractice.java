@@ -37,18 +37,11 @@ public class ExceptionPractice{
                 System.out.print("Check-out date (DD/MM/YYYY) ");
                 checkout = sdf.parse(sc.next());
 
-                Date now = new Date();
-                if(!checkin.after(now) || checkout.before(now)) {
-                    System.out.println("Error in reservation. Reservation date must be in the future");
-                } else if (!checkout.after(checkin)) {
-                    System.out.println("Error, check-in must be made before check-out.");
-                } else {
-                    reservation.updateDates(checkin, checkout);
-                }
-
-            } else {
-                System.out.println("Ok! Loading...");
+                String error = reservation.updateDates(checkin, checkout);
+                String errorMsg = (error != null)? "Error in reservation " + error : "Reservation " + reservation;
+                System.out.println(errorMsg);
             }
+
             System.out.println("Good Trip! See you soon");
         }
         sc.close();
