@@ -60,7 +60,7 @@ public class ProgramList {
         System.out.println("Index of Felipe: " +list.indexOf("Felipe"));
         
         System.out.println("--------------------");
-        
+        list.add("Karen");
         List<String> newList = list.stream().filter(x -> x.charAt(0) == 'K').collect(Collectors.toList());  
         
         for (String result : newList) {
