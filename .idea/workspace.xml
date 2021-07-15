@@ -1,10 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="&quot;Better Exception Handling&quot;">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Interfaces analysis. Open/Closed principle">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClasses2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClasses2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClassesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClassesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/BusinessAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/BusinessAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/Shape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/enums/Color.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/arraysandlists/application/ProgramList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arraysandlists/application/ProgramList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/arraysandlists/application/ProgramList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/arraysandlists/application/ProgramList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/Jogo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/collections/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/Lista.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/Program.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramPost.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramWorker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Client.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Comment.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Department.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/HourContract.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/HourContract.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/OrderItem.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Post.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Worker.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/enums/WorkerLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/enums/WorkerLevel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/Finally.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/Finally.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/TryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/TryCatch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/AccountProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/AccountProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/ExceptionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/ExceptionPractice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Reservation.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/DomainException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/DomainException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/WithdrawException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/WithdrawException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/BankProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/BankProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/EmployeesProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/EmployeesProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/PolymorphismBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/PolymorphismBank.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/ProductProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/ProductProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Account.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/BusinessAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/BusinessAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/ImportedProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/ImportedProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/OutsourcedEmployee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/OutsourcedEmployee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccountPlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccountPlus.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/UsedProduct.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/UsedProduct.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/ProgramVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/ProgramVehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/CarRental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/CarRental.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Invoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Invoice.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Vehicle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/BrazilTaxService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/BrazilTaxService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/RentalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/RentalService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,8 +66,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -41,13 +92,13 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/desafio-spring" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/desafio_spring" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ProgramVehicle">
+  <component name="RunManager" selected="Application.PaymentProgram">
     <configuration name="AccountProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exceptions.mvcpattern.application.AccountProgram" />
       <module name="Curso-Java" />
@@ -74,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Finally" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exceptions.Finally" />
+    <configuration name="PaymentProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaces.application.PaymentProgram" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exceptions.*" />
+          <option name="PATTERN" value="interfaces.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PaymentProgram" />
         <item itemvalue="Application.ProgramVehicle" />
         <item itemvalue="Application.ProgramList" />
         <item itemvalue="Application.AccountProgram" />
         <item itemvalue="Application.ExceptionPractice" />
-        <item itemvalue="Application.Finally" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626104966825</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Interfaces analysis. Open/Closed principle">
+      <created>1626221203583</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1626221203584</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -179,6 +237,7 @@
     <MESSAGE value="&quot;Bad Exception Handling&quot;" />
     <MESSAGE value="&quot;Not that Bad Exception Handling&quot;" />
     <MESSAGE value="&quot;Better Exception Handling&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="&quot;Better Exception Handling&quot;" />
+    <MESSAGE value="Interfaces analysis. Open/Closed principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces analysis. Open/Closed principle" />
   </component>
 </project>
