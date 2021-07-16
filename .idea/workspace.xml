@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Interfaces challenge">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Interfaces + Abstract Classes">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,7 +179,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626318319769</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Interfaces + Abstract Classes">
+      <created>1626402782637</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1626402782637</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -200,6 +207,7 @@
     <MESSAGE value="&quot;Better Exception Handling&quot;" />
     <MESSAGE value="Interfaces analysis. Open/Closed principle" />
     <MESSAGE value="Interfaces challenge" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interfaces challenge" />
+    <MESSAGE value="Interfaces + Abstract Classes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Interfaces + Abstract Classes" />
   </component>
 </project>
