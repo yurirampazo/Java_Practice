@@ -1,14 +1,12 @@
-package files.entities;
+package genericassetmap.model.entities;
 
-public class Product {
+public class Product implements Comparable<Product>{
     private String name;
     private Double price;
-    private Integer quantity;
 
-    public Product(String name, Double price, Integer quantity) {
+    public Product(String name, Double price) {
         this.name = name;
         this.price = price;
-        this.quantity = quantity;
     }
 
     public String getName() {
@@ -27,15 +25,13 @@ public class Product {
         this.price = price;
     }
 
-    public Integer getQuantity() {
-        return quantity;
+    @Override
+    public String toString(){
+        return String.format(name + ", " + String.format("%.2f", price));
     }
 
-    public void setQuantity(Integer quantity) {
-        this.quantity = quantity;
-    }
-
-    public double total(){
-        return price * quantity;
+    @Override
+    public int compareTo(Product o) {
+        return this.price.compareTo(o.getPrice());
     }
 }
