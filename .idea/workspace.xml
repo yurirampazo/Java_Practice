@@ -1,34 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Interface Comparable">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Generics Init">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/files/Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/Challenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/FileReaderBufferedReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/FileReaderBufferedReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/FileWritterBufferedWritter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/FileWritterBufferedWritter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/NewProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/NewProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/PathInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/PathInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/Program1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/Program1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/TryWithResources.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/files/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/Comparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/Comparable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/PaymentProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/PaymentProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/ProgramImplements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/ProgramImplements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ComboDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ComboDevice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcretePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcretePrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcreteScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcreteScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Device.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/enums/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/ContractService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/ContractService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/OnlinePaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/OnlinePaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/files/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/files/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/application/DefaultMethodsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/application/DefaultMethodsClass.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/application/PrintProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/application/PrintProgram.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/BrazilianInterestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/BrazilianInterestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/InterestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/InterestService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/UsaInterestRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/UsaInterestRate.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +20,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Interface" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,7 +53,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.DefaultMethodsClass">
+  <component name="RunManager" selected="Application.ErrorsExample">
     <configuration name="Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.application.Comparable" />
       <module name="Curso-Java" />
@@ -99,25 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FileReaderBufferedReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.FileReaderBufferedReader" />
+    <configuration name="ErrorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ErrorsExample" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FileWritterBufferedWritter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.FileWritterBufferedWritter" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="files.*" />
+          <option name="PATTERN" value="genericassetmap.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,13 +106,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="WildCardTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.WildCardTypes" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ErrorsExample" />
+        <item itemvalue="Application.WildCardTypes" />
         <item itemvalue="Application.DefaultMethodsClass" />
         <item itemvalue="Application.Comparable" />
         <item itemvalue="Application.NewProgram" />
-        <item itemvalue="Application.FileWritterBufferedWritter" />
-        <item itemvalue="Application.FileReaderBufferedReader" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1626923843070</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Generics Init">
+      <created>1627273017168</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1627273017168</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -274,6 +262,7 @@
     <MESSAGE value="Reading and writing files" />
     <MESSAGE value="Working with files OK" />
     <MESSAGE value="Interface Comparable" />
-    <option name="LAST_COMMIT_MESSAGE" value="Interface Comparable" />
+    <MESSAGE value="Generics Init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Generics Init" />
   </component>
 </project>
