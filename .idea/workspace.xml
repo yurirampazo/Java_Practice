@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Generics Init">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Wildcardtypes and introduction to get/put problems">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/Challenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/Challenge.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/application/DefaultMethodsClass.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/application/DefaultMethodsClass.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/application/PrintProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/application/PrintProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/BrazilianInterestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/BrazilianInterestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/InterestService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/InterestService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/service/UsaInterestRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/service/UsaInterestRate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ErrorsExample">
+  <component name="RunManager" selected="Application.equalsHashCodeProgram">
     <configuration name="Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaces.application.Comparable" />
       <module name="Curso-Java" />
@@ -93,19 +89,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="files.NewProgram" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="files.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="WildCardTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.WildCardTypes" />
       <module name="Curso-Java" />
@@ -119,13 +102,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="equalsHashCodeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.equalsHashCodeProgram" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.equalsHashCodeProgram" />
         <item itemvalue="Application.ErrorsExample" />
         <item itemvalue="Application.WildCardTypes" />
         <item itemvalue="Application.DefaultMethodsClass" />
         <item itemvalue="Application.Comparable" />
-        <item itemvalue="Application.NewProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -236,7 +232,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627273017168</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Wildcardtypes and introduction to get/put problems">
+      <created>1627407572511</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1627407572511</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -263,6 +266,7 @@
     <MESSAGE value="Working with files OK" />
     <MESSAGE value="Interface Comparable" />
     <MESSAGE value="Generics Init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generics Init" />
+    <MESSAGE value="Wildcardtypes and introduction to get/put problems" />
+    <option name="LAST_COMMIT_MESSAGE" value="Wildcardtypes and introduction to get/put problems" />
   </component>
 </project>
