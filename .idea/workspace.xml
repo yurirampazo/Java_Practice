@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Wildcardtypes and introduction to get/put problems">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Introduction to Set&lt;T&gt;">
+      <change afterPath="$PROJECT_DIR$/src/genericassetmap/application/ProgramSet2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/AbstractShape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Circle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Rectangle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramChallenge.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramChallenge.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/genericassetmap/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericassetmap/model/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,33 +50,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.equalsHashCodeProgram">
-    <configuration name="Comparable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaces.application.Comparable" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaces.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DefaultMethodsClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.DefaultMethodsClass" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="genericassetmap.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.SetProgramExample3">
     <configuration name="ErrorsExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ErrorsExample" />
       <module name="Curso-Java" />
@@ -89,8 +64,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WildCardTypes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.WildCardTypes" />
+    <configuration name="ProgramSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSet1" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramSet2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSet2" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetProgramExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.SetProgramExample3" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -117,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SetProgramExample3" />
+        <item itemvalue="Application.ProgramSet2" />
+        <item itemvalue="Application.ProgramSet1" />
         <item itemvalue="Application.equalsHashCodeProgram" />
         <item itemvalue="Application.ErrorsExample" />
-        <item itemvalue="Application.WildCardTypes" />
-        <item itemvalue="Application.DefaultMethodsClass" />
-        <item itemvalue="Application.Comparable" />
       </list>
     </recent_temporary>
   </component>
@@ -239,7 +240,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627407572511</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Introduction to Set&lt;T&gt;">
+      <created>1627444909298</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1627444909298</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -267,6 +275,7 @@
     <MESSAGE value="Interface Comparable" />
     <MESSAGE value="Generics Init" />
     <MESSAGE value="Wildcardtypes and introduction to get/put problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="Wildcardtypes and introduction to get/put problems" />
+    <MESSAGE value="Introduction to Set&lt;T&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Set&lt;T&gt;" />
   </component>
 </project>
