@@ -1,5 +1,6 @@
 package genericassetmap.model.entities;
 
+import java.util.Locale;
 import java.util.Objects;
 
 public class Product implements Comparable<Product>{
@@ -10,7 +11,6 @@ public class Product implements Comparable<Product>{
         this.name = name;
         this.price = price;
     }
-
     public String getName() {
         return name;
     }
@@ -34,8 +34,10 @@ public class Product implements Comparable<Product>{
 
     @Override
     public int compareTo(Product o) {
-        return this.price.compareTo(o.getPrice());
+        //return price.compareTo(o.getPrice());
+        return name.compareToIgnoreCase(o.getName());
     }
+
 
     @Override
     public boolean equals(Object o) {
