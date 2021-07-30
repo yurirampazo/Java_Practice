@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="HashSet and LinkedHashSet Implementation">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="TreeSet Example">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/genericassetmap/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/genericassetmap/model/entities/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/genericassetmap/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/genericassetmap/model/entities/Product.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.TreeSetSampleProgram">
+  <component name="RunManager" selected="Application.ProgramSetChallenge1">
     <configuration name="ProgramSet1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSet1" />
       <module name="Curso-Java" />
@@ -63,6 +63,19 @@
     </configuration>
     <configuration name="ProgramSet2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSet2" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProgramSetChallenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSetChallenge1" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -100,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="equalsHashCodeProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.equalsHashCodeProgram" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="genericassetmap.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ProgramSetChallenge1" />
         <item itemvalue="Application.TreeSetSampleProgram" />
         <item itemvalue="Application.SetProgramExample3" />
         <item itemvalue="Application.ProgramSet2" />
         <item itemvalue="Application.ProgramSet1" />
-        <item itemvalue="Application.equalsHashCodeProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -251,7 +251,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627520208914</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="TreeSet Example">
+      <created>1627521673560</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1627521673560</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -281,6 +288,7 @@
     <MESSAGE value="Wildcardtypes and introduction to get/put problems" />
     <MESSAGE value="Introduction to Set&lt;T&gt;" />
     <MESSAGE value="HashSet and LinkedHashSet Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="HashSet and LinkedHashSet Implementation" />
+    <MESSAGE value="TreeSet Example" />
+    <option name="LAST_COMMIT_MESSAGE" value="TreeSet Example" />
   </component>
 </project>
