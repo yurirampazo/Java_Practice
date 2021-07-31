@@ -2,94 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Map Introduction and Exercises">
-      <change afterPath="$PROJECT_DIR$/bin/genericassetmap/application/MapDemo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/genericassetmap/application/MapDemo2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/genericassetmap/application/SetChallenge2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericassetmap/application/MapChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericassetmap/application/MapDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/genericassetmap/application/MapDemo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClassesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/application/AbstractClassesTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/BusinessAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/BusinessAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/SavingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/abstractclasses/entities/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/abstractclasses/entities/enums/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/arraysandlists/application/ProgramList.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/arraysandlists/application/ProgramList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_00/HelloWorld.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_00/HelloWorld.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_01/Argumentos.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_01/Argumentos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_01/Casting.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_01/Casting.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_02/EstudoScanner2.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_02/EstudoScanner2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_02/EstudosScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_02/EstudosScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_03/Baskhara.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_03/Baskhara.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_03/FuncaoMath.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_03/FuncaoMath.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_04/Switch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_04/Switch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_05/Ternario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_05/Ternario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_06/Binario.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_06/Binario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_06/Bitwise.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_06/Bitwise.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_07/FucaoSplit.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_07/FucaoSplit.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_07/FuncoesString.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_07/FuncoesString.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/basico/aula_08/Funcoes.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/basico/aula_08/Funcoes.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/Jogo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/Jogo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/collections/Lista.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/collections/Lista.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/date/classdate/Program.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/Program.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/Program.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramPost.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramPost.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/application/ProgramWorker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/application/ProgramWorker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Client.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Client.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Department.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Department.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/HourContract.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/HourContract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/Worker.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/Worker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/enums/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/enums/OrderStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/enumeration/entities/enums/WorkerLevel.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/enumeration/entities/enums/WorkerLevel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/Finally.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/Finally.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/TryCatch.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/TryCatch.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/AccountProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/AccountProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/ExceptionPractice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/application/ExceptionPractice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Reservation.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/entities/Reservation.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/DomainException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/DomainException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/WithdrawException.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/exceptions/mvcpattern/model/exception/WithdrawException.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/FileReaderBufferedReader.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/FileReaderBufferedReader.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/FileWritterBufferedWritter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/FileWritterBufferedWritter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/NewProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/NewProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/PathInfo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/PathInfo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/Program1.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/Program1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/files/TryWithResources.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/files/TryWithResources.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/BankProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/BankProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/PolymorphismBank.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/application/PolymorphismBank.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Account.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Account.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/BusinessAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/BusinessAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccount.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccountPlus.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/inheritance_polymorphism/entities/SavingAccountPlus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/Comparable.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/Comparable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/PaymentProgram.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/PaymentProgram.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/ProgramImplements.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/ProgramImplements.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/application/ProgramVehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/application/ProgramVehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/CarRental.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/CarRental.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ComboDevice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ComboDevice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcretePrinter.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcretePrinter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcreteScanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/ConcreteScanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Contract.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Contract.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Device.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Device.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Installment.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Installment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Invoice.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Invoice.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/entities/Vehicle.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/entities/Vehicle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/enums/Color.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/enums/Color.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/BrazilTaxService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/BrazilTaxService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/ContractService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/ContractService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/OnlinePaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/OnlinePaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/PaypalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/PaypalService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Printer.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Printer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/RentalService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/RentalService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Scanner.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Scanner.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/Shape.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/Shape.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/interfaces/model/service/TaxService.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/interfaces/model/service/TaxService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,7 +46,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.MapDemo2">
+  <component name="RunManager" selected="Application.Program1">
     <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.MapDemo" />
       <module name="Curso-Java" />
@@ -160,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProgramSetChallenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSetChallenge1" />
+    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.Program1" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="PATTERN" value="lambdaexpressions.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetProgramExample3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.SetProgramExample3" />
+    <configuration name="ProgramSetChallenge1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.ProgramSetChallenge1" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -201,11 +114,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Program1" />
         <item itemvalue="Application.MapDemo2" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.ProgramSetChallenge1" />
         <item itemvalue="Application.TreeSetSampleProgram" />
-        <item itemvalue="Application.SetProgramExample3" />
       </list>
     </recent_temporary>
   </component>
