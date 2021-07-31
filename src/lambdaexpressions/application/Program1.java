@@ -16,9 +16,8 @@ public class Program1 {
         list.add(new Product("TV", 900.00));
         list.add(new Product("Notebook", 1200.00));
         list.add(new Product("Tablet", 450.00));
-        Comparator<Product> comp = (o1, o2) -> o1.getName().compareToIgnoreCase(o2.getName());
 
-        list.sort(comp);
+        list.sort((o1, o2) -> o1.getName().compareToIgnoreCase(o2.getName()));
 
         for (Product p : list) {
             System.out.println(p);

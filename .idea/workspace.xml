@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Comparator without foreign class">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement">
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -278,7 +278,28 @@
       <option name="project" value="LOCAL" />
       <updated>1627704517172</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Lambda Expressions: Comparator without foreign class">
+      <created>1627704729486</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1627704729486</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Lambda Expressions: Comparator in application with lambda and curly brackets">
+      <created>1627704881599</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1627704881599</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement">
+      <created>1627704951925</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1627704951925</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +334,8 @@
     <MESSAGE value="Map Introduction and Exercises" />
     <MESSAGE value="Lambda Expressions: Comparator with foreign class" />
     <MESSAGE value="Lambda Expressions: Comparator without foreign class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Comparator without foreign class" />
+    <MESSAGE value="Lambda Expressions: Comparator in application with lambda and curly brackets" />
+    <MESSAGE value="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement" />
   </component>
 </project>
