@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Map Introduction and Exercises">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Comparator without foreign class">
+      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,7 +264,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627613896027</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lambda Expressions: Comparator with foreign class">
+      <created>1627704442543</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1627704442543</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Lambda Expressions: Comparator with foreign class">
+      <created>1627704517172</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1627704517172</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -297,6 +311,8 @@
     <MESSAGE value="TreeSet Example" />
     <MESSAGE value="Set Challenges" />
     <MESSAGE value="Map Introduction and Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Map Introduction and Exercises" />
+    <MESSAGE value="Lambda Expressions: Comparator with foreign class" />
+    <MESSAGE value="Lambda Expressions: Comparator without foreign class" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Comparator without foreign class" />
   </component>
 </project>
