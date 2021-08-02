@@ -20,7 +20,7 @@ public class Program1 {
         list.sort((o1, o2) -> o1.getName().compareToIgnoreCase(o2.getName()));
 
         for (Product p : list) {
-            System.out.println(p);
+            System.out.println(p);  
         }
     }
 }

@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Comparator in application without lambda as a method parameter">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Program1">
+  <component name="RunManager" selected="Application.PredicateExample">
     <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="genericassetmap.application.MapDemo" />
       <module name="Curso-Java" />
@@ -66,6 +67,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.PredicateExample" />
+      <module name="Curso-Java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lambdaexpressions.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +113,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeSetSampleProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.TreeSetSampleProgram" />
-      <module name="Curso-Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="genericassetmap.application.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.Program1" />
         <item itemvalue="Application.MapDemo2" />
         <item itemvalue="Application.MapDemo" />
         <item itemvalue="Application.ProgramSetChallenge1" />
-        <item itemvalue="Application.TreeSetSampleProgram" />
       </list>
     </recent_temporary>
   </component>
@@ -299,7 +300,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627704951925</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Lambda Expressions: Comparator in application without lambda as a method parameter">
+      <created>1627705069657</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1627705069657</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -336,6 +344,7 @@
     <MESSAGE value="Lambda Expressions: Comparator without foreign class" />
     <MESSAGE value="Lambda Expressions: Comparator in application with lambda and curly brackets" />
     <MESSAGE value="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement" />
+    <MESSAGE value="Lambda Expressions: Comparator in application without lambda as a method parameter" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Comparator in application without lambda as a method parameter" />
   </component>
 </project>
