@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Consumer with INterface Implementation">
-      <change afterPath="$PROJECT_DIR$/bin/lambdaexpressions/application/PredicateLambdaExpression.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambdaexpressions/model/service/PriceUpdate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -351,7 +350,14 @@
       <option name="project" value="LOCAL" />
       <updated>1627961187364</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Lambda Expressions: Consumer with INterface Implementation">
+      <created>1627962022253</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1627962022253</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
