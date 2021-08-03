@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Predicate implemented in util class">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Predicate implemented with static method reference">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/PredicateExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" afterDir="false" />
     </list>
@@ -315,7 +316,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627947383255</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Lambda Expressions: Predicate implemented with statica method reference">
+      <created>1627959705116</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1627959705116</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Lambda Expressions: Predicate implemented with static method reference">
+      <created>1627959729115</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1627959729115</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -354,18 +369,9 @@
     <MESSAGE value="Lambda Expressions: Comparator in application without lambda and curly brackets and &quot;return&quot; statement" />
     <MESSAGE value="Lambda Expressions: Comparator in application without lambda as a method parameter" />
     <MESSAGE value="Lambda Expressions: Predicate implemented in util class" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Predicate implemented in util class" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lambdaexpressions/application/PredicateExample.java</url>
-          <line>22</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="Lambda Expressions: Predicate implemented with statica method reference" />
+    <MESSAGE value="Lambda Expressions: Predicate implemented with static method reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Predicate implemented with static method reference" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Practice$PredicateExample.ic" NAME="PredicateExample Coverage Results" MODIFIED="1627956904357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
