@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Function with interface implementation">
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Function with static and non-static reference method">
+      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/FunctionExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -391,7 +391,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628001626865</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Lambda Expressions: Function with static and non-static reference method">
+      <created>1628002022385</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1628002022385</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -407,7 +414,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Interface Comparable" />
     <MESSAGE value="Generics Init" />
     <MESSAGE value="Wildcardtypes and introduction to get/put problems" />
     <MESSAGE value="Introduction to Set&lt;T&gt;" />
@@ -432,7 +438,8 @@
     <MESSAGE value="Lambda Expressions: Consumer with declared lambda expression" />
     <MESSAGE value="Lambda Expressions: Consumer with inline lambda expression" />
     <MESSAGE value="Lambda Expressions: Function with interface implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Function with interface implementation" />
+    <MESSAGE value="Lambda Expressions: Function with static and non-static reference method" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Function with static and non-static reference method" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Practice$PredicateExample.ic" NAME="PredicateExample Coverage Results" MODIFIED="1627956904357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
