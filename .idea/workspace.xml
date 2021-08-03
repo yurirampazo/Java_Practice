@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Consumer with INterface Implementation">
-      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" afterDir="false" />
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Consumer with non-static method reference">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/model/entities/Product.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +47,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.ConsumerExample">
+  <component name="RunManager" selected="Application.ConsumerLambdaProgram">
     <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.ConsumerExample" />
       <module name="Curso-Java" />
@@ -62,12 +61,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="genericassetmap.application.MapDemo" />
+    <configuration name="ConsumerLambdaProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.ConsumerLambdaProgram" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="genericassetmap.application.*" />
+          <option name="PATTERN" value="lambdaexpressions.application.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,11 +115,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsumerLambdaProgram" />
         <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.Program1" />
         <item itemvalue="Application.MapDemo2" />
-        <item itemvalue="Application.MapDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -357,7 +356,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627962022253</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Lambda Expressions: Consumer with static method reference">
+      <created>1627962432469</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1627962432469</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Lambda Expressions: Consumer with non-static method reference">
+      <created>1627962480540</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1627962480540</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -373,8 +386,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Interfaces challenge" />
-    <MESSAGE value="Interfaces + Abstract Classes" />
     <MESSAGE value="Multiple Interfaces" />
     <MESSAGE value="Reading and writing files" />
     <MESSAGE value="Working with files OK" />
@@ -398,7 +409,9 @@
     <MESSAGE value="Lambda Expressions: Predicate implemented with Declared Lambda Expression" />
     <MESSAGE value="Lambda Expressions: Predicate implemented with inline Lambda Expression" />
     <MESSAGE value="Lambda Expressions: Consumer with INterface Implementation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Consumer with INterface Implementation" />
+    <MESSAGE value="Lambda Expressions: Consumer with static method reference" />
+    <MESSAGE value="Lambda Expressions: Consumer with non-static method reference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Consumer with non-static method reference" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Practice$PredicateExample.ic" NAME="PredicateExample Coverage Results" MODIFIED="1627956904357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
