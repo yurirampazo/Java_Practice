@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Consumer with non-static method reference">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/ConsumerExample.java" afterDir="false" />
-    </list>
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Consumer with inline lambda expression" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -370,7 +367,21 @@
       <option name="project" value="LOCAL" />
       <updated>1627962480540</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Lambda Expressions: Consumer with declared lambda expression">
+      <created>1627963312737</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1627963312737</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Lambda Expressions: Consumer with inline lambda expression">
+      <created>1627963387666</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1627963387666</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -386,8 +397,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Multiple Interfaces" />
-    <MESSAGE value="Reading and writing files" />
     <MESSAGE value="Working with files OK" />
     <MESSAGE value="Interface Comparable" />
     <MESSAGE value="Generics Init" />
@@ -411,7 +420,9 @@
     <MESSAGE value="Lambda Expressions: Consumer with INterface Implementation" />
     <MESSAGE value="Lambda Expressions: Consumer with static method reference" />
     <MESSAGE value="Lambda Expressions: Consumer with non-static method reference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Consumer with non-static method reference" />
+    <MESSAGE value="Lambda Expressions: Consumer with declared lambda expression" />
+    <MESSAGE value="Lambda Expressions: Consumer with inline lambda expression" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Consumer with inline lambda expression" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Practice$PredicateExample.ic" NAME="PredicateExample Coverage Results" MODIFIED="1627956904357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

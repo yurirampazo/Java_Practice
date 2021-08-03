@@ -10,7 +10,7 @@ import java.util.function.Consumer;
 public class ConsumerLambdaProgram {
     public static void main(String[] args) {
 
-        //Declared Lambda
+        //Inline Lambda
 
         Locale.setDefault(Locale.US);
         List<Product> list = new ArrayList<>();
@@ -21,12 +21,8 @@ public class ConsumerLambdaProgram {
         list.add(new Product("HD Case", 80.90));
 
         double factor = 1.1;
-//        Consumer<Product> cons = c -> {
-//            c.setPrice(c.getPrice() * factor);
-//        };
-        Consumer<Product> cons = c -> c.setPrice(c.getPrice() * factor);
 
-        list.forEach(cons);
+        list.forEach(c -> c.setPrice(c.getPrice() * factor));
         list.forEach(System.out::println);
     }
 }
