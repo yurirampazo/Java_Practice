@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Function with static and non-static reference method">
-      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/model/entities/Product.class" afterDir="false" />
+    <list default="true" id="692e63fd-0971-462e-b319-e03611ce80c5" name="Default Changelist" comment="Lambda Expressions: Function with declared and inline lambda expression.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/lambdaexpressions/application/FunctionExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/lambdaexpressions/application/FunctionExample.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/FunctionExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/FunctionExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lambdaexpressions/application/Program1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.FunctionExample">
+  <component name="RunManager" selected="Application.ReviewProgram">
     <configuration name="ConsumerExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.ConsumerExample" />
       <module name="Curso-Java" />
@@ -100,8 +102,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Program1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.Program1" />
+    <configuration name="ReviewProgram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lambdaexpressions.application.ReviewProgram" />
       <module name="Curso-Java" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ReviewProgram" />
         <item itemvalue="Application.FunctionExample" />
         <item itemvalue="Application.ConsumerLambdaProgram" />
         <item itemvalue="Application.ConsumerExample" />
         <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.Program1" />
       </list>
     </recent_temporary>
   </component>
@@ -398,7 +400,14 @@
       <option name="project" value="LOCAL" />
       <updated>1628002022385</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Lambda Expressions: Function with declared and inline lambda expression.">
+      <created>1628002445080</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1628002445080</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -414,7 +423,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Generics Init" />
     <MESSAGE value="Wildcardtypes and introduction to get/put problems" />
     <MESSAGE value="Introduction to Set&lt;T&gt;" />
     <MESSAGE value="HashSet and LinkedHashSet Implementation" />
@@ -439,7 +447,8 @@
     <MESSAGE value="Lambda Expressions: Consumer with inline lambda expression" />
     <MESSAGE value="Lambda Expressions: Function with interface implementation" />
     <MESSAGE value="Lambda Expressions: Function with static and non-static reference method" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Function with static and non-static reference method" />
+    <MESSAGE value="Lambda Expressions: Function with declared and inline lambda expression." />
+    <option name="LAST_COMMIT_MESSAGE" value="Lambda Expressions: Function with declared and inline lambda expression." />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Java_Practice$PredicateExample.ic" NAME="PredicateExample Coverage Results" MODIFIED="1627956904357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">

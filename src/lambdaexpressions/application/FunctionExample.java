@@ -35,9 +35,7 @@ public class FunctionExample {
         //Inline Lambda -> Prettier
         List<String> names = list.stream().map(f -> f.getName().toUpperCase()).collect(Collectors.toList());
 
-
         names.forEach(System.out::println);
-
     }
 
 }
